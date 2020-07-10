@@ -2,7 +2,7 @@
 Urdu Sentiment Analysis using Naive Byes
 
 # Naive Bayes Aproach for Sentiment Analaysis - 1
- ![alt](https://github.com/zaid7860/Urdu_Sentiment_Analysis/blob/master/Urdu_Sentiment_Classifier.ipynb)
+https://github.com/zaid7860/Urdu_Sentiment_Analysis/blob/master/Urdu_Sentiment_Classifier.ipynb
  
 # LSTM based Aproach - 2
-![alt](https://github.com/zaid7860/Urdu_Sentiment_Analysis/blob/master/LSTM-Urdu-Sentiment-Analysis.ipynb)
+https://github.com/zaid7860/Urdu_Sentiment_Analysis/blob/master/LSTM-Urdu-Sentiment-Analysis.ipynb
